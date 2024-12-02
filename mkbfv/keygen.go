@@ -1,6 +1,6 @@
 package mkbfv
 
-import "mk-lattigo/mkrlwe"
+import "github.com/oksuman/snu-mghe/mkrlwe"
 import "math/big"
 
 type KeyGenerator struct {

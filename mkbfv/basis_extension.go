@@ -1,7 +1,7 @@
 package mkbfv
 
 import "github.com/ldsec/lattigo/v2/ring"
-import "mk-lattigo/mkrlwe"
+import "github.com/oksuman/snu-mghe/mkrlwe"
 
 type FastBasisExtender struct {
 	ringP    *ring.Ring

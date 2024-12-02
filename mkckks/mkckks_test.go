@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"testing"
 
-	"mk-lattigo/mkrlwe"
+	"github.com/oksuman/snu-mghe/mkrlwe"
 
 	"github.com/ldsec/lattigo/v2/ckks"
 	"github.com/ldsec/lattigo/v2/ring"

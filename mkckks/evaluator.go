@@ -1,6 +1,6 @@
 package mkckks
 
-import "mk-lattigo/mkrlwe"
+import "github.com/oksuman/snu-mghe/mkrlwe"
 
 import "github.com/ldsec/lattigo/v2/ring"
 import "github.com/ldsec/lattigo/v2/ckks"

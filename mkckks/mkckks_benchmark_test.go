@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/ldsec/lattigo/v2/ckks"
-	"mk-lattigo/mkrlwe"
+	"github.com/oksuman/snu-mghe/mkrlwe"
 )
 
 func BenchmarkMKCKKS(b *testing.B) {

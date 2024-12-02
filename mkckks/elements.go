@@ -1,6 +1,6 @@
 package mkckks
 
-import "mk-lattigo/mkrlwe"
+import "github.com/oksuman/snu-mghe/mkrlwe"
 
 type Ciphertext struct {
 	*mkrlwe.Ciphertext

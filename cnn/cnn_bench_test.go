@@ -6,7 +6,7 @@ import (
 
 	"github.com/ldsec/lattigo/v2/ckks"
 	"mk-lattigo/mkckks"
-	"mk-lattigo/mkrlwe"
+	"github.com/oksuman/snu-mghe/mkrlwe"
 )
 
 func BenchmarkCNN(b *testing.B) {

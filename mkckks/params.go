@@ -1,7 +1,7 @@
 package mkckks
 
 import "github.com/ldsec/lattigo/v2/ckks"
-import "mk-lattigo/mkrlwe"
+import "github.com/oksuman/snu-mghe/mkrlwe"
 
 // Parameters represents a parameter set for the CKKS cryptosystem. Its fields are private and
 // immutable. See ParametersLiteral for user-specified parameters.
