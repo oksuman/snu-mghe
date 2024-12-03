@@ -1,4 +1,4 @@
-module mk-lattigo
+module github.com/oksuman/snu-mghe
 
 go 1.13
 

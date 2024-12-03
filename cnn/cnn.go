@@ -1,9 +1,10 @@
 package cnn
 
 import (
-	"github.com/ldsec/lattigo/v2/ckks"
 	"math"
 	"mk-lattigo/mkckks"
+
+	"github.com/ldsec/lattigo/v2/ckks"
 	"github.com/oksuman/snu-mghe/mkrlwe"
 )
 
