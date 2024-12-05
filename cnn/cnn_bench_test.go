@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/ldsec/lattigo/v2/ckks"
-	"mk-lattigo/mkckks"
+	"github.com/oksuman/snu-mghe/mkckks"
 	"github.com/oksuman/snu-mghe/mkrlwe"
 )
 

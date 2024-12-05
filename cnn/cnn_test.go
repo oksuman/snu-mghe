@@ -6,15 +6,16 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/stretchr/testify/require"
 	"testing"
+
+	"github.com/stretchr/testify/require"
 
 	"github.com/ldsec/lattigo/v2/ckks"
 	"github.com/ldsec/lattigo/v2/ring"
 	"github.com/ldsec/lattigo/v2/rlwe"
 	"github.com/ldsec/lattigo/v2/utils"
 
-	"mk-lattigo/mkckks"
+	"github.com/oksuman/snu-mghe/mkckks"
 	"github.com/oksuman/snu-mghe/mkrlwe"
 )
 
